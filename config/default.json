@@ -1,0 +1,5 @@
+{
+  "iiif": {
+    "server": "https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/"
+  }
+}
